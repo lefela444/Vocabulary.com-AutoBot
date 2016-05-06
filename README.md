@@ -1,4 +1,4 @@
-# About Vocabulary.com-bot
+# About Vocabulary.com-Autobot
 A little side project to solve my English assignments @ University
 
 Automatically solves "Vocabulary.com" Assignments
@@ -34,4 +34,4 @@ password
 </pre>
 
 <b>For URLS:</b><br>
-<pre>Comment/ Un-Comment line 21 to 26 or even add a vocabulary.com word practice list</pre>
+Comment/ Un-Comment <code>line 21 to 26</code> or even add a vocabulary.com word practice list
