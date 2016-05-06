@@ -27,9 +27,11 @@ Automatically solves "Vocabulary.com" Assignments
 <b>How to work with it?</b><br>
 For demo purpose use the given <code>cred</code> file<br>
 <b>else:</b>
-
 edit the the <code>cred</code> file as:
 <pre>
 user@email.com
 password
 </pre>
+
+<b>For URLS:</b><br>
+<pre>Comment/ Un-Comment line 21 to 26 or even add a vocabulary.com word practice list</pre>
