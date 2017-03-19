@@ -1,5 +1,6 @@
 # About Vocabulary.com-Autobot
 A little side project to solve my English assignments @ University
+# [ABANDONED] I will not be updating the code anymore
 
 Automatically solves "Vocabulary.com" Assignments
 	
