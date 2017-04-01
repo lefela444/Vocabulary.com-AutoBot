@@ -1,4 +1,4 @@
-# About Vocabulary.com-Autobot
+# About Vocabulary.com-Autobot (Not working anymore)
 A little side project to solve my English assignments @ University
 # [ABANDONED] I will not be updating the code anymore
 
