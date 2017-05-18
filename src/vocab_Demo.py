@@ -6,15 +6,7 @@ from unidecode import unidecode
 import urllib2
 #from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
-annotate = '''
-             _      _     _____  ______
-            | |    | |   |  _  ||___  /
- ___  _ __  | |__  | | __| |_| |   / / 
-/ __|| '_ \ | '_ \ | |/ /\____ |  / /  
-\__ \| | | || |_) ||   < .___/ /./ /   
-|___/|_| |_||_.__/ |_|\_\\____/ \_/    
-                                       
-                                       '''
+
 _author_ = "Sayan Bhowmik"
 fo = open('cred')
 
