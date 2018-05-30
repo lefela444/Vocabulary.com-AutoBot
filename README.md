@@ -2,6 +2,9 @@
 You are tired for making vocabulary.com assignments? You want to do something else but you can't because you have an homework? 
 <br>BOTS ARE SOLUTION! With this bot, you can pass: AUDIO and TEXT challenge. **WARINGING:** THE BOT HAVE ONLY 80% OF SUCCESS RATE. IT CAN CRASH AT ANY MOMENT. STILL ON DEVELOPEMENT. WHEN YOU ARE AT ABOUT **80%**. CHECK IF THE BOT CAN STILL SOLVE OR YOU WILL NEED TO DO IT BY YOUR SELF!
 
+# Disclaimer:
+> If you use this bot, YOU actually won't gain any knowledge. It is recommended that you solve your assignments on your own ! THIS BOT IS FOR EDUCATION PURPOSE ONLY. IF YOU USE IT TO DO YOUR HOMEWORK AND SOMEONE DISCOVER IT, I DO **NOT** TAKE THE RESPONSABILITY.
+
 # [UPDATED] BETA v1.1 [The code will be updated if needed!]
 
 Automatically solves "Vocabulary.com" Assignments.
@@ -18,10 +21,6 @@ Are supported.
 	Skips question with photo
 	Skips question with fill_ins
 </pre>
-
-
-# Disclaimer:
-> If you use this bot, YOU actually won't gain any knowledge. It is recommended that you solve your assignments on your own ! THIS BOT IS FOR EDUCATION PURPOSE ONLY. IF YOU USE IT TO DO YOUR HOMEWORK AND SOMEONE DISCOVER IT, I DO **NOT** TAKE THE RESPONSABILITY.
 
 # Installation
 <b>Prerequisites:</b>
