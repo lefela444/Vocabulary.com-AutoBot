@@ -1,5 +1,8 @@
 # About Vocabulary.com Bot (Working)
-You are tired for making vocabulary.com assignments? You want to do something else but you can't because you have an homework? BOTS ARE SOLUTION! With this bot, you can pass: AUDIO and TEXT challenge. WARINGING: THE BOT HAVE ONLY 80% OF SUCCESS RATE. IT CAN CRASH AT ANY MOMENT. STILL ON DEVELOPEMENT. WHEN YOU ARE AT ABOUT 80%. CHECK IF THE BOT CAN STILL SOLVE OR YOU WILL NEED TO DO IT BY YOUR SELF!
+You are tired for making vocabulary.com assignments? You want to do something else but you can't because you have an homework? BOTS ARE SOLUTION! With this bot, you can pass: AUDIO and TEXT challenge. 
+
+**WARINGING: THE BOT HAVE ONLY 80% OF SUCCESS RATE. <br> IT CAN CRASH AT ANY MOMENT. STILL ON DEVELOPEMENT. <br> WHEN YOU ARE AT ABOUT 80%. <br> CHECK IF THE BOT CAN STILL SOLVE OR YOU WILL NEED TO DO IT BY YOUR SELF!**
+
 # [UPDATED] BETA v1.1 [The code will be updated if needed!]
 
 Automatically solves "Vocabulary.com" Assignments.
