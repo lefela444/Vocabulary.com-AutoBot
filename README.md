@@ -5,7 +5,7 @@ You are tired for making vocabulary.com assignments? You want to do something el
 # [UPDATED] BETA v1.1 [The code will be updated if needed!]
 
 Automatically solves "Vocabulary.com" Assignments.
-* Audio
+* Audio is now supported!
 * Text
 Are supported.
 
