@@ -1,0 +1,5 @@
+pydub==0.22.0
+SpeechRecognition==3.8.1
+selenium==2.53.6
+Unidecode==1.0.22
+beautifulsoup4==4.6.0
