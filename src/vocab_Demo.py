@@ -1,24 +1,3 @@
-import os
-import platform
-from selenium import webdriver
-import time
-from unidecode import unidecode
-import urllib2
-#from selenium.webdriver.support import expected_conditions as EC
-from bs4 import BeautifulSoup
-
-__version__ = "1.1"
-print "Current version: " + __version__
-_author_ = "Sayan Bhowmik"
-fo = open('cred')
-
-############################################################################
-# Link to  assignment [For Demo]
-#url = "https://www.vocabulary.com/lists/23380/practice"
-url = "https://www.vocabulary.com/lists/194479/practice"
-#url = "https://www.vocabulary.com/lists/52473/practice"
-##############################################################################
-
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option(
