@@ -8,6 +8,7 @@ import urllib2
 from bs4 import BeautifulSoup
 
 __version__ = "1.1"
+print "Current version: " + __version__
 _author_ = "Sayan Bhowmik"
 fo = open('cred')
 
