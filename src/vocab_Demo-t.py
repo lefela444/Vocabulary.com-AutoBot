@@ -7,7 +7,7 @@ import urllib2
 #from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 
-__version__ = 1.1
+__version__ = "1.1"
 _author_ = "Sayan Bhowmik"
 fo = open('cred')
 
